@@ -1,17 +1,17 @@
 [
     {
-        "user": "userName",
+        "user": "tchiphuong",
         "data":
         [
             {
                 "key": "name",
-                "value": "Họ tên",
+                "value": "Phuong Tran",
                 "icon": "user-male-circle",
                 "url": "#"
             },
             {
                 "key": "phone",
-                "value": "*** *** ** **",
+                "value": "094 461 ** **",
                 "icon": "phone",
                 "url": "tel:+84944615969"
             },
@@ -35,39 +35,21 @@
             },
             {
                 "key": "location",
-                "value": "Địa chỉ",
+                "value": "Cantho, Vietnam",
                 "icon": "marker",
                 "url": "https://www.google.com/search?q=Cần+Thơ"
             },
             {
                 "key": "company",
-                "value": "Tên công ty",
+                "value": "IVS Joint Stock Company",
                 "icon": "company",
                 "url": "https://indivisys.jp/"
             },
             {
                 "key": "zalo",
-                "value": "Tên Zalo",
+                "value": "Phuong Tran",
                 "icon": "zalo",
-                "url": "http://zalo.me/sdt"
-            }
-        ]
-    },
-    {
-        "user": "user1",
-        "data":
-        [
-            {
-                "key": "name",
-                "value": "user",
-                "icon": "user-male-circle",
-                "url": "#"
-            },
-            {
-                "key": "name",
-                "value": "Full Name",
-                "icon": "user-male-circle",
-                "url": "#"
+                "url": "http://zalo.me/0944615969"
             }
         ]
     }
