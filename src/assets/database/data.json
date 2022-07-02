@@ -1,0 +1,74 @@
+[
+    {
+        "user": "userName",
+        "data":
+        [
+            {
+                "key": "name",
+                "value": "Họ tên",
+                "icon": "user-male-circle",
+                "url": "#"
+            },
+            {
+                "key": "phone",
+                "value": "*** *** ** **",
+                "icon": "phone",
+                "url": "tel:+84944615969"
+            },
+            {
+                "key": "email",
+                "value": "cphuong219219@gmail.com",
+                "icon": "mail",
+                "url": "mailto:cphuong219219@gmail.com"
+            },
+            {
+                "key": "facebook",
+                "value": "@tchiphuong",
+                "icon": "facebook-new",
+                "url": "fb://profile/100008161321386/"
+            },
+            {
+                "key": "github",
+                "value": "@tcphuong",
+                "icon": "github",
+                "url": "https://www.github.com/tchiphuong/"
+            },
+            {
+                "key": "location",
+                "value": "Địa chỉ",
+                "icon": "marker",
+                "url": "https://www.google.com/search?q=Cần+Thơ"
+            },
+            {
+                "key": "company",
+                "value": "Tên công ty",
+                "icon": "company",
+                "url": "https://indivisys.jp/"
+            },
+            {
+                "key": "zalo",
+                "value": "Tên Zalo",
+                "icon": "zalo",
+                "url": "http://zalo.me/sdt"
+            }
+        ]
+    },
+    {
+        "user": "user1",
+        "data":
+        [
+            {
+                "key": "name",
+                "value": "user",
+                "icon": "user-male-circle",
+                "url": "#"
+            },
+            {
+                "key": "name",
+                "value": "Full Name",
+                "icon": "user-male-circle",
+                "url": "#"
+            }
+        ]
+    }
+]
