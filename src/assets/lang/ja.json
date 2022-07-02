@@ -1,4 +1,8 @@
 {
-    "lbl_title": "Japan"
-
+    "lbl_title": "情報",
+    "lbl_name": "名前",
+    "lbl_phone": "電話",
+    "lbl_email": "Email",
+    "lbl_location": "アドレス",
+    "lbl_company": "会社"
 }

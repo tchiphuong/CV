@@ -1,4 +1,8 @@
 {
-    "lbl_title": "England"
-
+    "lbl_title": "Infomation",
+    "lbl_name": "Name",
+    "lbl_phone": "Phone",
+    "lbl_email": "email",
+    "lbl_location": "address",
+    "lbl_company": "company"
 }

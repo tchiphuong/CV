@@ -10,10 +10,18 @@
     <link rel="stylesheet" href="./assets/css/tailwindcss.css">
 </head>
 <body class="h-full dark:bg-zinc-800">
-    <div class="max-w-[430px] mx-auto bg-slate-50 dark:bg-zinc-900 dark:text-white min-h-full">
+    <div class="max-w-[430px] mx-auto bg-slate-50 dark:bg-zinc-900 dark:text-white overflow-y-scroll min-h-full">
         <div class="px-3">
-            <div class="py-2 text-lg font-bold text-center uppercase">Infomation</div>
-            <ul id="list-data">
+            <div class="flex">
+                <div class="py-3 text-xl font-bold text-center uppercase" langKey="lbl_title">Infomation</div>
+                <ul class="flex justify-end flex-grow py-3">
+                    <li class="px-1"><button id="btnChangeLang" langId="cn"><img class="w-8 h-8" src="./assets/img/lang-cn.png" alt=""></button></li>
+                    <li class="px-1"><button id="btnChangeLang" langId="en"><img class="w-8 h-8" src="./assets/img/lang-en.png" alt=""></button></li>
+                    <li class="px-1"><button id="btnChangeLang" langId="ja"><img class="w-8 h-8" src="./assets/img/lang-ja.png" alt=""></button></li>
+                    <li class="px-1"><button id="btnChangeLang" langId="vi"><img class="w-8 h-8" src="./assets/img/lang-vi.png" alt=""></button></li>
+                </ul>
+            </div>
+            <ul id="list-data" class="pb-10">
             </ul>
         </div>
     </div>

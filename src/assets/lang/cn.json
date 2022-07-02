@@ -1,7 +1,8 @@
 {
-    "lbl_title": "China",
-    "lbl_days": "天",
-    "lbl_hours": "小時",
-    "lbl_minutes": "分鐘",
-    "lbl_seconds": "秒"
+    "lbl_title": "信息",
+    "lbl_name": "名稱",
+    "lbl_phone": "電話",
+    "lbl_email": "電子郵件",
+    "lbl_location": "地址",
+    "lbl_company": "公司"
 }

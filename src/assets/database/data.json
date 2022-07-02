@@ -5,51 +5,45 @@
         [
             {
                 "key": "name",
-                "value": "Phuong Tran",
+                "value": "UGh1b25nIFRyYW4=",
                 "icon": "user-male-circle",
-                "url": "#"
+                "url": "Iw=="
             },
             {
                 "key": "phone",
-                "value": "094 461 ** **",
+                "value": "MDk0IDQ2MSAqKiAqKg==",
                 "icon": "phone",
-                "url": "tel:+84944615969"
+                "url": "dGVsOis4NDk0NDYxNTk2OQ=="
             },
             {
                 "key": "email",
-                "value": "cphuong219219@gmail.com",
+                "value": "Y3BodW9uZyoqKioqKkBnbWFpbC5jb20=",
                 "icon": "mail",
-                "url": "mailto:cphuong219219@gmail.com"
+                "url": "bWFpbHRvOmNwaHVvbmcyMTkyMTlAZ21haWwuY29t"
             },
             {
                 "key": "facebook",
-                "value": "@tchiphuong",
+                "value": "QHRjaGlwaHVvbmc=",
                 "icon": "facebook-new",
-                "url": "fb://profile/100008161321386/"
+                "url": "ZmI6Ly9wcm9maWxlLzEwMDAwODE2MTMyMTM4Ni8="
             },
             {
                 "key": "github",
-                "value": "@tcphuong",
+                "value": "QHRjaGlwaHVvbmc=",
                 "icon": "github",
-                "url": "https://www.github.com/tchiphuong/"
+                "url": "aHR0cHM6Ly93d3cuZ2l0aHViLmNvbS90Y2hpcGh1b25nLw=="
             },
             {
                 "key": "location",
-                "value": "Cantho, Vietnam",
+                "value": "Q2FudGhvLCBWaWV0bmFt",
                 "icon": "marker",
-                "url": "https://www.google.com/search?q=Cần+Thơ"
-            },
-            {
-                "key": "company",
-                "value": "IVS Joint Stock Company",
-                "icon": "company",
-                "url": "https://indivisys.jp/"
+                "url": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT1DYW4rVGhv"
             },
             {
                 "key": "zalo",
-                "value": "Phuong Tran",
+                "value": "UGh1b25nIFRyYW4=",
                 "icon": "zalo",
-                "url": "http://zalo.me/0944615969"
+                "url": "aHR0cDovL3phbG8ubWUvMDk0NDYxNTk2OQ=="
             }
         ]
     }
